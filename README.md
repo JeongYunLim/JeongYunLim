@@ -1,3 +1,3 @@
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/{JeongYunLim}>
+  <img src="https://render.gitanimals.org/farms/{JeongYunLim}">
 </a>
